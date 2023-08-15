@@ -1,0 +1,118 @@
+[
+  {
+    "music_id": 1,
+    "fullName": "Beyoncé Giselle Knowles-Carter",
+    "genres": ["R&B", "Pop", "Hip-Hop"],
+    "instruments": ["Vocals"],
+    "labels": ["Columbia", "Parkwood Entertainment"],
+    "born": "September 4, 1981",
+    "yearsActive": "1997 - Present",
+    "spouses": ["Jay-Z (Shawn Carter)"],
+    "children": ["Blue Ivy", "Rumi", "Sir Carter"],
+    "notableWorks": [
+      "Single Ladies (Put a Ring on It)",
+      "Crazy in Love",
+      "Formation"
+    ],
+    "imageURL": "Image_URL_Beyonce"
+  },
+  {
+    "music_id": 2,
+    "fullName": "Edward Christopher Sheeran",
+    "genres": ["Pop", "Singer-Songwriter"],
+    "instruments": ["Vocals", "Guitar"],
+    "labels": ["Asylum", "Atlantic"],
+    "born": "February 17, 1991",
+    "yearsActive": "2004 - Present",
+    "notableWorks": ["Shape of You", "Thinking Out Loud", "Photograph"],
+    "imageURL": "Image_URL_Ed_Sheeran"
+  },
+  {
+    "music_id": 3,
+    "fullName": "Taylor Alison Swift",
+    "genres": ["Pop", "Country"],
+    "instruments": ["Vocals", "Guitar"],
+    "labels": ["Big Machine", "Republic"],
+    "born": "December 13, 1989",
+    "yearsActive": "2004 - Present",
+    "notableWorks": ["Love Story", "Blank Space", "Shake It Off"],
+    "imageURL": "Image_URL_Taylor_Swift"
+  },
+  {
+    "music_id": 4,
+    "fullName": "Peter Gene Hernandez (Bruno Mars)",
+    "genres": ["Pop", "R&B", "Funk"],
+    "instruments": ["Vocals", "Guitar", "Drums"],
+    "labels": ["Atlantic"],
+    "born": "October 8, 1985",
+    "yearsActive": "2004 - Present",
+    "notableWorks": ["Just the Way You Are", "Uptown Funk", "Grenade"],
+    "imageURL": "Image_URL_Bruno_Mars"
+  },
+  {
+    "music_id": 5,
+    "fullName": "Adele Laurie Blue Adkins",
+    "genres": ["Pop", "Soul"],
+    "instruments": ["Vocals"],
+    "labels": ["XL Recordings", "Columbia"],
+    "born": "May 5, 1988",
+    "yearsActive": "2006 - Present",
+    "notableWorks": ["Rolling in the Deep", "Someone Like You", "Hello"],
+    "imageURL": "Image_URL_Adele"
+  },
+  {
+    "music_id": 6,
+    "fullName": "Kendrick Lamar Duckworth",
+    "genres": ["Hip-Hop", "Rap"],
+    "instruments": ["Vocals"],
+    "labels": ["Top Dawg", "Aftermath", "Interscope"],
+    "born": "June 17, 1987",
+    "yearsActive": "2003 - Present",
+    "notableWorks": ["HUMBLE.", "Alright", "Swimming Pools (Drank)"],
+    "imageURL": "Image_URL_Kendrick_Lamar"
+  },
+  {
+    "music_id": 7,
+    "fullName": "Robyn Rihanna Fenty",
+    "genres": ["Pop", "R&B", "Dancehall"],
+    "instruments": ["Vocals"],
+    "labels": ["Def Jam", "Roc Nation"],
+    "born": "February 20, 1988",
+    "yearsActive": "2003 - Present",
+    "notableWorks": ["Umbrella", "We Found Love", "Diamonds"],
+    "imageURL": "Image_URL_Rihanna"
+  },
+  {
+    "music_id": 8,
+    "fullName": "John Roger Stephens (John Legend)",
+    "genres": ["R&B", "Soul", "Gospel"],
+    "instruments": ["Vocals", "Piano"],
+    "labels": ["GOOD Music", "Columbia", "Sony Music"],
+    "born": "December 28, 1978",
+    "yearsActive": "2000 - Present",
+    "notableWorks": ["All of Me", "Ordinary People", "Glory"],
+    "imageURL": "Image_URL_John_Legend"
+  },
+  {
+    "music_id": 9,
+    "fullName": "Billie Eilish Pirate Baird O'Connell",
+    "genres": ["Pop", "Electropop", "Alternative"],
+    "instruments": ["Vocals"],
+    "labels": ["Darkroom", "Interscope"],
+    "born": "December 18, 2001",
+    "yearsActive": "2015 - Present",
+    "notableWorks": ["Bad Guy", "Ocean Eyes", "When the Party's Over"],
+    "imageURL": "Image_URL_Billie_Eilish"
+  },
+  {
+    "music_id": 10,
+    "fullName": "Reginald Kenneth Dwight (Elton John)",
+    "genres": ["Pop", "Rock", "Glam Rock"],
+    "instruments": ["Vocals", "Piano"],
+    "labels": ["Rocket", "MCA", "Geffen"],
+    "born": "March 25, 1947",
+    "yearsActive": "1962 - Present",
+    "notableWorks": ["Rocket Man", "Your Song", "Tiny Dancer"],
+    "imageURL": "Image_URL_Elton_John"
+  }
+]
