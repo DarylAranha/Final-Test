@@ -63,7 +63,7 @@ router.get("/logout", (req, res, next) => ProcessLogout(req, res, next));
  * ID: 200498080
  * Date: August 15, 2023
  *
- * Returns list of songs if route matches /list
+ * Returns list of musicians if route matches /list
  * @param  {[Request]} req Contains request parameters
  * @param  {[Response]} res Contains response parameter
  * @param  {[NextFunction]} next Contains middleware functionality
@@ -83,7 +83,7 @@ router.get(
  * ID: 200498080
  * Date: August 15, 2023
  *
- * Returns a specific songs if route matches /find/:id (:id is song ID)
+ * Returns a specific musicians if route matches /find/:id (:id is musicican ID)
  * @param  {[Request]} req Contains request parameters
  * @param  {[Response]} res Contains response parameter
  * @param  {[NextFunction]} next Contains middleware functionality
@@ -103,7 +103,7 @@ router.get(
  * ID: 200498080
  * Date: August 15, 2023
  *
- * Adds a songs if route matches /add
+ * Adds a musicians if route matches /add
  * @param  {[Request]} req Contains request parameters
  * @param  {[Response]} res Contains response parameter
  * @param  {[NextFunction]} next Contains middleware functionality
@@ -123,7 +123,7 @@ router.post(
  * ID: 200498080
  * Date: August 15, 2023
  *
- * Updates a songs if route matches /update
+ * Updates a musicians if route matches /update
  * @param  {[Request]} req Contains request parameters
  * @param  {[Response]} res Contains response parameter
  * @param  {[NextFunction]} next Contains middleware functionality
@@ -143,7 +143,7 @@ router.put(
  * ID: 200498080
  * Date: August 15, 2023
  *
- * Deletes a songs if route matches /delete/:id (:id is song ID)
+ * Deletes a musicians if route matches /delete/:id (:id is musician ID)
  * @param  {[Request]} req Contains request parameters
  * @param  {[Response]} res Contains response parameter
  * @param  {[NextFunction]} next Contains middleware functionality
