@@ -208,6 +208,7 @@ function UpdateMusician(req, res, next) {
         let relatives = SanitizeArray(req.body.relatives);
         let notableWorks = SanitizeArray(req.body.notableWorks);
         let musicianToUpdate = new musician_1.default({
+            _id: id,
             music_id: req.body.music_id,
             fullName: req.body.fullName,
             genres: genres,
