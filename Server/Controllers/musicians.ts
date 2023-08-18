@@ -340,6 +340,7 @@ export function UpdateMusician(
     let notableWorks = SanitizeArray(req.body.notableWorks);
 
     let musicianToUpdate = new Musician({
+      _id: id,
       music_id: req.body.music_id,
       fullName: req.body.fullName,
       genres: genres,
